@@ -1,14 +1,9 @@
 import React from "react";
-
-import React from 'react'
-
 const googleMaps = () => {
-  return (
-    <div>googleMaps</div>
-  )
-}
+  return <div>googleMaps</div>;
+};
 
-export default googleMaps
+export default googleMaps;
 
 // const GoogleMaps = () => {
 //   return (
