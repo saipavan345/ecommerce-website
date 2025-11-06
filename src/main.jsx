@@ -2,7 +2,8 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
 import "swiper/css";
-import Home from "./Home/home.jsx";
+import Home from "./Home/Home.jsx"
+//import Home from "./Home/Home.jsx";
 import Blog from "./Blog/Blog.jsx";
 import Shop from "./shop/Shop.jsx";
 
