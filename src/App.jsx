@@ -1,4 +1,5 @@
 import { Outlet } from "react-router-dom";
+import { HashRouter as Router } from 'react.router-dom';
 import "./App.css";
 import NavItems from "./components/NavItems";
 import Footer from "./components/Footer";
